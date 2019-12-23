@@ -8,7 +8,7 @@ of `Spotify <http://www.spotify.com/>`_. This lets you browse artists and albums
 of your spotify user account library.
 
 Uses the `Spotipy <https://github.com/plamere/spotipy/>`_ API, which is a python wrapper arround
-the spoitify web api.
+the spotify web api.
 
 
 Dependencies
